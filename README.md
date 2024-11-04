@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) - FMI Sofia University 2023/2024
 
-This repository contains tasks and assignments from the **Object-Oriented Programming** (OOP) course at the Faculty of Mathematics and Informatics, Sofia University, for the academic year 2023/2024.
+This repository contains tasks from the **Object-Oriented Programming** (OOP) course at the Faculty of Mathematics and Informatics, Sofia University, for the academic year 2023/2024.
 
 ## Course Overview
 
